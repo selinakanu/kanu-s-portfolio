@@ -1,0 +1,1 @@
+This project entails building a personal website portfolio using basic knowledge of HTML and CSS.
